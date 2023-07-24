@@ -39,5 +39,7 @@ Here are some of my recent projects:
 
 If you have any questions or want to collaborate on a project, feel free to reach out to me:
 
+<img src="https://img.shields.io/badge/Email-Address-brightgreen" alt="Email Address">
 - Email: [milkcafe0905@gmail.com](mailto:milkcafe0905@gmail.com)
+<img src="https://img.shields.io/badge/Discord-User-brightblue" alt="Discord Username">
 - Discord [@IAmNoXShadow]
